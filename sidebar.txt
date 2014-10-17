@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vit:home|Door43 (vit)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vit|d43-vit repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vit/archive/master.zip|d43-vit.zip]]
+
+**Recent Changes**
+{{changes>ns = vit}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vit|Ethnologue data]]
+
